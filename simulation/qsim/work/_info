@@ -1,0 +1,151 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/peedr/OneDrive/Documentos/GitHub/PBL HAHAHA/simulation/qsim
+vmaq_enc_veda
+Z1 !s110 1708572431
+!i10b 1
+!s100 bk9;Dgo09D45?1^GflU4D0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkSFb0chdczcdDo`]3<@TN2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dC:/Users/nalbe/Downloads/PBL-3-main-20240221T212103Z-001/PBL-3-main/simulation/qsim
+Z5 w1708572430
+Z6 8PBL3.vo
+Z7 FPBL3.vo
+!i122 84
+L0 32 411
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1708572431.000000
+Z10 !s107 PBL3.vo|
+Z11 !s90 -work|work|PBL3.vo|
+!i113 1
+Z12 o-work work
+Z13 tCvgOpt 0
+vmaq_enc_veda_vlg_vec_tst
+R1
+!i10b 1
+!s100 3;abM@K?[MkRjLW0JH^@X1
+R2
+I5XVANA]cWn1bcJ6RQ[Jcj3
+R3
+R4
+R5
+Z14 8Waveform.vwf.vt
+Z15 FWaveform.vwf.vt
+!i122 85
+L0 30 70
+R8
+r1
+!s85 0
+31
+R9
+Z16 !s107 Waveform.vwf.vt|
+Z17 !s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R12
+R13
+vmaq_esteira
+Z18 !s110 1708556635
+!i10b 1
+!s100 P]oBm?ihXM?ccCfhTC?I00
+R2
+IJ><iS:gzk=C>IANNfa[QX1
+R3
+R4
+w1708556634
+R6
+R7
+!i122 72
+L0 32 161
+R8
+r1
+!s85 0
+31
+Z19 !s108 1708556635.000000
+R10
+R11
+!i113 1
+R12
+R13
+vmaq_esteira_vlg_vec_tst
+R18
+!i10b 1
+!s100 8NmHF>[3OZ>_kjVDkk@?71
+R2
+I65?dfmiQ:D;9`=Gi5=:Fl3
+R3
+R4
+w1708556633
+R14
+R15
+!i122 73
+L0 30 55
+R8
+r1
+!s85 0
+31
+R19
+R16
+R17
+!i113 1
+R12
+R13
+vPBL3
+Z20 !s110 1708125364
+!i10b 1
+!s100 NI^`2Rn?_`>VA>DOh`iKH3
+R2
+I@jTR@^MmWJ_PS_5j[K<2j2
+R3
+R0
+w1708125363
+R6
+R7
+!i122 60
+L0 32 2827
+R8
+r1
+!s85 0
+31
+Z21 !s108 1708125364.000000
+R10
+R11
+!i113 1
+R12
+R13
+n@p@b@l3
+vPBL3_vlg_vec_tst
+R20
+!i10b 1
+!s100 ZE@T7BzOcY3T_Y]NWRam@1
+R2
+IG547ej06_ecPTRFGEjXCd1
+R3
+R0
+w1708125361
+8teste_contador_3bit_desc.vwf.vt
+Fteste_contador_3bit_desc.vwf.vt
+!i122 61
+L0 30 72
+R8
+r1
+!s85 0
+31
+R21
+!s107 teste_contador_3bit_desc.vwf.vt|
+!s90 -work|work|teste_contador_3bit_desc.vwf.vt|
+!i113 1
+R12
+R13
+n@p@b@l3_vlg_vec_tst

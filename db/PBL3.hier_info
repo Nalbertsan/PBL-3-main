@@ -1,0 +1,16 @@
+|maq_desp
+clk => current_state~1.DATAIN
+reset => current_state~3.DATAIN
+RO => always1.IN0
+RO => Al.IN0
+RO => Selector0.IN2
+RO => C.IN0
+RO => always1.IN0
+RO => Selector1.IN2
+RC => always1.IN1
+RC => C.IN1
+RC => always1.IN1
+Al <= Al.DB_MAX_OUTPUT_PORT_TYPE
+C <= C.DB_MAX_OUTPUT_PORT_TYPE
+
+

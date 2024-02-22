@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aluno/Downloads/PBL-3-main/simulation/qsim
+vPBL3
+Z1 !s110 1708534145
+!i10b 1
+!s100 ^djSJTgKXSPnUXe5YS7;K0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIN_HA?[XKbVl6[ER^UfkV1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1708534145
+8PBL3.vo
+FPBL3.vo
+!i122 12
+L0 32 2821
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1708534145.000000
+!s107 PBL3.vo|
+!s90 -work|work|PBL3.vo|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@p@b@l3
+vPBL3_vlg_vec_tst
+R1
+!i10b 1
+!s100 @kY;DinCfRMMelX`AE>Y11
+R2
+Ika4RLbGI2BQZGz3gGMLM;2
+R3
+R0
+w1708534144
+8teste_contador_3bit_desc.vwf.vt
+Fteste_contador_3bit_desc.vwf.vt
+!i122 13
+L0 30 70
+R4
+r1
+!s85 0
+31
+R5
+!s107 teste_contador_3bit_desc.vwf.vt|
+!s90 -work|work|teste_contador_3bit_desc.vwf.vt|
+!i113 1
+R6
+R7
+n@p@b@l3_vlg_vec_tst

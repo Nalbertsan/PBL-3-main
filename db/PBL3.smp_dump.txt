@@ -1,0 +1,6 @@
+
+State Machine - |maq_desp|current_state
+Name current_state.Desligado current_state.Alarme current_state.Ligado 
+current_state.Desligado 0 0 0 
+current_state.Ligado 1 0 1 
+current_state.Alarme 1 1 0 
